@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/background.jpg</file>
+        <file>picture/backOne.png</file>
+        <file>picture/backTwo.png</file>
+        <file>picture/loginBack.jpg</file>
+        <file>picture/pic1.jpg</file>
+        <file>picture/pic2.jpg</file>
+        <file>picture/pic3.png</file>
+        <file>picture/pic4.jpg</file>
+        <file>picture/robot.jpg</file>
+        <file>picture/robot.png</file>
+        <file>picture/whiteButton.jpg</file>
+        <file>picture/blackButton.jpg</file>
+        <file>picture/loginBack2.jpg</file>
+        <file>picture/black.jpg</file>
+        <file>picture/pic5.jpg</file>
+        <file>picture/white.jpg</file>
+    </qresource>
+</RCC>
